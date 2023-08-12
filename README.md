@@ -2,23 +2,25 @@
 <a href="https://sarah.nitroxis.org/"><img src="https://i.ibb.co/8YP2ZT4/Modern-Name-Script-Beauty-Logo-1.png" alt="Modern-Name-Script-Beauty-Logo-1" border="0"></a>
 </p>
 
-👋 Hey there! Welcome to my Github profile repository, where you can learn a little bit about me, a React developer 🚀.
+Hey there! Welcome to my GitHub profile repository, your window into the world of a passionate React developer 🚀.
 
-🔭 Right now, I'm hard at work on a project that I'm incredibly excited about - it's all about helping users organize their tasks and schedule more effectively 📅. It's been a fun challenge to build, but I'm really enjoying the process!
+🔭 Currently, I'm immersed in an exciting project that revolves around optimizing task management and scheduling 📅. Crafting this solution has been both exhilarating and challenging, and I'm relishing every moment of the development journey.
 
-🌱 As a developer, I'm always looking to improve my skills and learn new technologies. Currently, I'm diving deeper into TypeScript 🤓, which has been a bit of a learning curve but has already proved to be incredibly valuable.
+🌱 My commitment to growth means I'm constantly enhancing my skills and delving into cutting-edge technologies. My latest adventure? Mastering TypeScript 🤓, a pursuit that's both humbling and tremendously rewarding.
 
-👯 Collaboration is one of my favorite parts of the development process - I love bouncing ideas off of others and working together to create something amazing. So, if you have an open-source project you think I might be a good fit for, don't hesitate to reach out!
+💼 With a strong focus on WordPress development, I thrive on shaping digital landscapes that seamlessly blend aesthetics with functionality. From crafting visually stunning interfaces to ensuring seamless user experiences, I'm your go-to WordPress guru.
 
-🤔 Of course, no project is without its challenges. If you ever need help with a problem or are facing a difficult roadblock, I'm more than happy to lend a hand. After all, we're all in this together!
+👯 Collaboration is my secret sauce - brainstorming ideas and collaborating with others ignites my creativity. If you have an open-source WordPress project that could use some magic, reach out – I'd love to contribute!
 
-💬 Outside of development, I'm always happy to chat about React, web development, or anything else that might be on your mind. I'm a big believer in the power of community, and I'm always looking to make new connections.
+🤔 Challenges are the pillars of growth. If you find yourself navigating a tricky coding puzzle or a roadblock, feel free to tap into my expertise. After all, problem-solving is the heart of our coding community.
 
-📫 If you'd like to get in touch with me, you can reach me via email or through one of my other contact methods listed below. I'm always happy to hear from other developers or anyone who's interested in learning more about what I do.
+💬 Beyond the screen, let's chat about all things WordPress, React, or whatever tech intrigues you. The power of community drives me, and I'm always excited to forge new connections.
 
-😄 And just for fun - did you know that I'm a huge fan of hiking and spending time outdoors? It's a great way to clear my head and get some exercise, and I always feel more focused and energized when I come back to my work.
+📫 If you're itching to connect, drop me an email or connect through my other listed contact methods. Developers and tech enthusiasts, I'm all ears for your ideas and queries.
 
-🔗 To learn more about me and my work, be sure to check out my LinkedIn and portfolio website - I'm always happy to connect with new people! Thanks for stopping by, and happy coding!
+😄 Fun fact: When I'm not coding, you'll find me conquering trails and soaking in the great outdoors. Hiking fuels my creativity, making me more focused and driven when I return to my coding haven.
+
+🔗 Explore more about my journey and creations by visiting my LinkedIn and portfolio website. Let's connect and embark on some epic coding adventures together! Thanks for stopping by, and let's keep the code flowing!
 
 <h2 align="center" dir="auto"><a id="user-content-notable-skills" class="anchor" aria-hidden="true" href="#notable-skills"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Notable Skills</h2>
 <p align="center" dir="auto">most comfortable to work with or have a lot of experience in the following skills</p>
