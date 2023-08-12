@@ -47,4 +47,7 @@
   <a href="https://reactjs.org/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;">
   </a>
+  <a href="https://reactjs.org/" rel="nofollow">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="react" width="40" height="40" style="max-width: 100%;">
+  </a>
 </p>
