@@ -52,4 +52,8 @@ Hey there! Welcome to my GitHub profile repository, your window into the world o
   <a href="https://reactjs.org/" rel="nofollow">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="react" width="40" height="40" style="max-width: 100%;">
   </a>
+    <a href="https://reactjs.org/" rel="nofollow">
+    <img src="https://d2eip9sf3oo6c2.cloudfront.net/playlists/square_covers/000/505/265/square_480/chakra-lv1.png" alt="react" width="40" height="40" style="max-width: 100%;">
+  </a>
+
 </p>
